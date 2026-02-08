@@ -3,4 +3,4 @@ pkg update && pkg upgrade -y
 python -m pip install --upgrade pip
 python -m pip install requests[socks] pystyle flask
 
-сначала наэимаете win + r и пишете cmd потом нажимаете на Enter после запуска cmd пишете python и скачиваете его через Microsoft Store и вставляете эти команды 
+сначала нажимаете win + r и пишете cmd потом нажимаете на Enter после запуска cmd пишете python и скачиваете его через Microsoft Store и вставляете эти команды 
